@@ -1,16 +1,3 @@
-<style>
-  #stack a {
-    height: 40px;
-  }
-  .whited {
-    padding: 5px;
-    display: inline-block;
-    background-color: #FFFFFF;
-    border-radius: 4px;
-    aspect-ratio: 1/1;
-    
-  }
-</style>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Fullstack+Developer;TypeScript+%7C+React+%7C+Deno;Flutter+%7C+Docker+%7C+DevOps;Reverse+Engineering+%7C+Automation" alt="Typing SVG" />
@@ -73,7 +60,7 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   </a>
   <img width="12" />
-  <a href="https://www.rust-lang.org/" target="_blank" class="whited">
+  <a href="https://www.rust-lang.org/" target="_blank" style="padding: 5px; display: inline-block; background-color: #FFFFFF; border-radius: 4px; aspect-ratio: 1/1; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
   </a>
   <a href="https://fresh.deno.dev/" target="_blank">
@@ -95,11 +82,11 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   </a>
   <img width="12" />
-  <a href="https://deno.land/" target="_blank" class="whited">
+  <a href="https://deno.land/" target="_blank" style="padding: 5px; display: inline-block; background-color: #FFFFFF; border-radius: 4px; aspect-ratio: 1/1; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="Deno" />
   </a>
   <img width="12" />
-  <a href="https://expressjs.com/" target="_blank" class="whited">
+  <a href="https://expressjs.com/" target="_blank" style="wpadding: 5px; display: inline-block; background-color: #FFFFFF; border-radius: 4px; aspect-ratio: 1/1; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   </a>
   <a href="https://flutter.dev/" target="_blank">
@@ -136,7 +123,7 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   </a>
   <img width="12" />
-  <a href="https://github.com/MNLaugh" target="_blank" class="whited">
+  <a href="https://github.com/MNLaugh" target="_blank" style="padding: 5px; display: inline-block; background-color: #FFFFFF; border-radius: 4px; aspect-ratio: 1/1; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   </a>
   <a href="https://pptr.dev/" target="_blank">
