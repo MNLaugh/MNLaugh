@@ -1,3 +1,17 @@
+<style>
+  #stack a {
+    height: 40px;
+  }
+  .whited {
+    padding: 5px;
+    display: inline-block;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    aspect-ratio: 1/1;
+    
+  }
+</style>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Fullstack+Developer;TypeScript+%7C+React+%7C+Deno;Flutter+%7C+Docker+%7C+DevOps;Reverse+Engineering+%7C+Automation" alt="Typing SVG" />
 </div>
@@ -42,7 +56,7 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
 
 ## Stack
 
-<div>
+<div id="stack">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   </a>
@@ -59,11 +73,11 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   </a>
   <img width="12" />
-  <a href="https://www.rust-lang.org/" target="_blank">
+  <a href="https://www.rust-lang.org/" target="_blank" class="whited">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
   </a>
   <a href="https://fresh.deno.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="Deno Fresh" />
+    <img src="https://fresh.deno.dev/logo.svg" height="40" alt="Deno Fresh" />
   </a>
   <img width="12" />
   <a href="https://react.dev/" target="_blank">
@@ -81,11 +95,11 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   </a>
   <img width="12" />
-  <a href="https://deno.land/" target="_blank">
+  <a href="https://deno.land/" target="_blank" class="whited">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="Deno" />
   </a>
   <img width="12" />
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank" class="whited">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   </a>
   <a href="https://flutter.dev/" target="_blank">
@@ -122,7 +136,7 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   </a>
   <img width="12" />
-  <a href="https://github.com/MNLaugh" target="_blank">
+  <a href="https://github.com/MNLaugh" target="_blank" class="whited">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   </a>
   <a href="https://pptr.dev/" target="_blank">
@@ -142,7 +156,7 @@ Showcase website deployed on a personal server with Traefik reverse proxy and au
 - Link: [nicolas-metivier.fr](https://nicolas-metivier.fr)
 
 **Tech:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="20" /> Deno Fresh,
+<img src="https://fresh.deno.dev/logo.svg" height="20" /> Deno Fresh,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" /> React,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" /> Docker,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="20" /> Traefik
@@ -157,7 +171,7 @@ Professional showcase website (MN Informatique) using the same self-hosting stac
 - Link: [mn-informatique.fr](https://mn-informatique.fr)
 
 **Tech:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="20" /> Deno Fresh,
+<img src="https://fresh.deno.dev/logo.svg" height="20" /> Deno Fresh,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" /> React,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" /> Docker,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="20" /> Traefik
