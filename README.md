@@ -1,19 +1,18 @@
-
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&lines=Fullstack+Developer;TypeScript+%7C+React+%7C+Deno;Flutter+%7C+Docker+%7C+DevOps;Reverse+%7C+Automation" alt="Typing SVG" />
 </div>
 
 ---
 
-# Hey, I'm MNLaugh!
-**Fullstack Developer | Freelancer | Passionate about reverse engineering and automation**
+# Hey, I'm MNLaugh
+
+Fullstack Developer | Freelancer | Passionate about reverse engineering and automation
 
 <div align="center">
-  <img width="12" />
   <a href="https://nicolas-metivier.fr" target="_blank">
     <img src="https://nicolas-metivier.fr/images/favicon.ico" height="40" alt="Personal Portfolio" />
   </a>
-  <img width="12" />
   <a href="https://mn-informatique.fr" target="_blank">
     <img src="https://mn-informatique.fr/images/emblem_color_512.png" height="40" alt="Professional Portfolio" />
   </a>
@@ -43,53 +42,69 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,dart,rust,lua,wasm,html,css,sass,react,vue,nuxtjs,svelte,tailwind,bootstrap,materialui,vuetify,nodejs,express,deno,bun,fastapi,php,electron,flutter,postgres,mysql,mongodb,sqlite,redis,supabase,docker,nginx,grafana,prometheus,githubactions,raspberrypi,git,github,gitlab,npm,gulp,bash,regex,md,vscode,sublime,discord,discordjs,bots,anaconda,arch,debian,mint,linux,blender,godot" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,dart,rust,lua,wasm,html,css,sass,react,vue,nuxtjs,svelte,tailwind,bootstrap,materialui,vuetify,nodejs,express,deno,bun,fastapi,php,electron,flutter,postgres,mysql,mongodb,sqlite,redis,supabase,docker,nginx,grafana,prometheus,githubactions,raspberrypi,git,github,gitlab,npm,gulp,bash,regex,md,vscode,sublime,discord,discordjs,bots,anaconda,arch,debian,mint,linux,blender,godot" alt="Tech Stack" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="40" alt="Traefik" />
 
 ---
 
 ## Projects in production
 
-### **1. Self-hosted personal portfolio**
+### 1. DFtpS - Deno FTP Server ⭐
+
+A modern, lightweight FTP server written in TypeScript for Deno. Published on JSR with a **100% score**.
+
+- TLS/SSL support (AUTH TLS, PROT P)
+- Argon2id password hashing & SQLite user database
+- Full RFC 959/2228/2389/2428/3659 compliance (44 FTP commands)
+- JSR: [@dftp/server](https://jsr.io/@dftp/server)
+- GitHub: [MNLaugh/dftps](https://github.com/MNLaugh/dftps)
+
+**Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="20" alt="Deno" /> Deno,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" /> TypeScript,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="SQLite" /> SQLite
+
+---
+
+### 2. Self-hosted personal portfolio
+
 Showcase website deployed on a personal server with Traefik reverse proxy and automatic SSL management.
 
 - Full Docker configuration
 - Autonomous deployment and maintenance
 - Link: [nicolas-metivier.fr](https://nicolas-metivier.fr)
 
-**Tech:**
-<img src="https://fresh.deno.dev/logo.svg" height="20" /> Deno Fresh,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" /> React,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" /> Docker,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="20" /> Traefik
+**Tech:** <img src="https://fresh.deno.dev/logo.svg" height="20" alt="Deno Fresh" /> Deno Fresh,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" /> React,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="Docker" /> Docker,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="20" alt="Traefik" /> Traefik
 
 ---
 
-### **2. Self-hosted professional portfolio**
+### 3. Self-hosted professional portfolio
+
 Professional showcase website (MN Informatique) using the same self-hosting stack.
 
 - Traefik reverse proxy (auto SSL)
 - Identical Docker infrastructure, independent project
 - Link: [mn-informatique.fr](https://mn-informatique.fr)
 
-**Tech:**
-<img src="https://fresh.deno.dev/logo.svg" height="20" /> Deno Fresh,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" /> React,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" /> Docker,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="20" /> Traefik
+**Tech:** <img src="https://fresh.deno.dev/logo.svg" height="20" alt="Deno Fresh" /> Deno Fresh,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" /> React,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="Docker" /> Docker,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="20" alt="Traefik" /> Traefik
 
 ---
 
-### **3. Mobile apps with reverse-engineered APIs**
+### 4. Mobile apps with reverse-engineered APIs
+
 Multiple Flutter applications consuming non-public APIs through reverse engineering.
 
 - Request interception, header and token analysis
 - Authentication and session management
 - Advanced network debugging
 
-**Tech:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" /> Flutter,
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20" /> Dart,
+**Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="Flutter" /> Flutter,
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20" alt="Dart" /> Dart,
 API Reverse Engineering
 
 ---
@@ -108,14 +123,16 @@ API Reverse Engineering
 
 ## Key skills
 
-### **Hard Skills**
+### Hard Skills
+
 - **API Reverse Engineering** (network analysis, deobfuscation)
 - **Fullstack Architecture** (end-to-end design)
 - **Full autonomy** (development, deployment, maintenance)
 - **Advanced debugging** (logs, network inspection, optimization)
 - **Security** (authentication, tokens, CORS)
 
-### **Soft Skills**
+### Soft Skills
+
 - **Fast self-learning** (new technology in a few days)
 - **Problem solving** (perseverance, resourcefulness)
 - **Teaching ability** (former instructor, documentation and knowledge sharing)
@@ -134,4 +151,4 @@ API Reverse Engineering
 
 ---
 
-**Feel free to reach out to discuss projects or collaborations!**
+Feel free to reach out to discuss projects or collaborations!
