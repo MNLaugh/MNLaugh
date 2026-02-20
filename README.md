@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Fullstack+Developer;TypeScript+%7C+React+%7C+Deno;Flutter+%7C+Docker+%7C+DevOps;Reverse+Engineering+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&lines=Fullstack+Developer;TypeScript+%7C+React+%7C+Deno;Flutter+%7C+Docker+%7C+DevOps;Reverse+%7C+Automation" alt="Typing SVG" />
 </div>
 
 ---
