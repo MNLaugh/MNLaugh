@@ -43,103 +43,18 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
 
 ## Stack
 
-<table bgcolor="#e9e9e9" width="100%" cellpadding="10">
-  <tr>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-      </a>
-      <img width="12" />
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-      </a>
-      <img width="12" />
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-      </a>
-      <img width="12" />
-      <a href="https://dart.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-      </a>
-      <img width="12" />
-      <a href="https://www.rust-lang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
-      </a>
-      <img width="12" />
-      <a href="https://fresh.deno.dev/" target="_blank">
-        <img src="https://fresh.deno.dev/logo.svg" height="40" alt="Deno Fresh" />
-      </a>
-      <img width="12" />
-      <a href="https://react.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-      </a>
-      <img width="12" />
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-      </a>
-      <img width="12" />
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-      </a>
-      <img width="12" />
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-      </a>
-      <img width="12" />
-      <a href="https://deno.land/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="Deno" />
-      </a>
-      <img width="12" />
-      <a href="https://expressjs.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-      </a>
-      <img width="12" />
-      <a href="https://flutter.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-      </a>
-      <img width="12" />
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-      </a>
-      <img width="12" />
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-      </a>
-      <img width="12" />
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-      </a>
-      <img width="12" />
-      <a href="https://pocketbase.io/" target="_blank">
-        <img src="https://pocketbase.io/images/logo.svg" height="40" alt="PocketBase" />
-      </a>
-      <img width="12" />
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-      </a>
-      <img width="12" />
-      <a href="https://traefik.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="40" alt="Traefik" />
-      </a>
-      <img width="12" />
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-      </a>
-      <img width="12" />
-      <a href="https://github.com/MNLaugh" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-      </a>
-      <img width="12" />
-      <a href="https://pptr.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" height="40" alt="Puppeteer" />
-      </a>
-    </td>
-    <td width="20"></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=ts,js,python,dart,rust,lua,wasm,
+html,css,sass,react,vue,nuxtjs,svelte,tailwind,bootstrap,materialui,vuetify,
+nodejs,express,deno,bun,fastapi,php,electron,
+flutter,
+postgres,mysql,mongodb,sqlite,redis,supabase,
+docker,nginx,grafana,prometheus,githubactions,raspberrypi,
+git,github,gitlab,npm,gulp,bash,regex,md,vscode,sublime,
+discord,discordjs,bots,
+anaconda,arch,debian,mint,linux,blender,godot" />
 
 
+---
 
 ## Projects in production
 
