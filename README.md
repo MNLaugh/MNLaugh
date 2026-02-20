@@ -59,7 +59,7 @@ A modern, lightweight FTP server written in TypeScript for Deno. Published on JS
 - JSR: [@dftp/server](https://jsr.io/@dftp/server)
 - GitHub: [MNLaugh/dftps](https://github.com/MNLaugh/dftps)
 
-**Tech:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="20" alt="Deno" /> Deno,
+**Tech:** <img src="https://skillicons.dev/icons?i=deno" height="20" alt="Deno" /> Deno,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" /> TypeScript,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="SQLite" /> SQLite
 
