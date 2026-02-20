@@ -44,7 +44,7 @@ My expertise in **API reverse engineering** allows me to integrate third-party s
 ## Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,dart,rust,lua,wasm,html,css,sass,react,vue,nuxtjs,svelte,tailwind,bootstrap,materialui,vuetify,nodejs,express,deno,bun,fastapi,php,electron,flutter,postgres,mysql,mongodb,sqlite,redis,supabase,docker,nginx,grafana,prometheus,githubactions,raspberrypi,git,github,gitlab,npm,gulp,bash,regex,md,vscode,sublime,discord,discordjs,bots,anaconda,arch,debian,mint,linux,blender,godot" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" height="40" />
 
 ---
 
